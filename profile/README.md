@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="assets/PICO.png" alt="PICO-Humanoid logo" width="48" height="48" align="absmiddle"> PICO-Humanoid
+# PICO-Humanoid
 
 ### **P**redictive **I**ntelligent **CO**ntrolled Humanoid Robot
 
@@ -10,7 +10,9 @@
 
 </div>
 
-**PICO-Humanoid** is a humanoid robotics research platform independently developed by the [<u>**Predictive Intelligent Control Lab**</u>](https://picontrollab.com/).
+**PICO-Humanoid** is a humanoid robotics research platform independently developed by the [<u>**Predictive Intelligent Control Lab**</u>](https://picontrollab.com/ "Visit Our Website").
+
+For more information, please visit the [PICO-Hunmanoid website](https://pico-humanoid.github.io "Visit 'https://pico-humanoid.github.io'").
 
 ## Overview
 
@@ -22,13 +24,13 @@
 
 *Coming soon...*
 
-See [PICO-Mechanism](https://github.com/pico-humanoid/pico-mechanism) and [PICO-Electronics](https://github.com/pico-humanoid/pico-electronics "Open GitHub repositories").
+See [PICO-Mechanism](https://github.com/pico-humanoid/pico-mechanism "Open GitHub Repositories") and [PICO-Electronics](https://github.com/pico-humanoid/pico-electronics "Open GitHub Repositories").
 
 ## Firmware
 
 *Coming soon...*
 
-See [PICO-Firmware](https://github.com/pico-humanoid/pico-firmware).
+See [PICO-Firmware](https://github.com/pico-humanoid/pico-firmware "Open GitHub Repositories").
 
 ## Software
 
