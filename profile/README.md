@@ -1,6 +1,6 @@
 <div align="center">
 
-# PICO-Humanoid
+# <img src="assets/PICO.png" alt="PICO-Humanoid logo" width="48" height="48" align="absmiddle"> PICO-Humanoid
 
 ### **P**redictive **I**ntelligent **CO**ntrolled Humanoid Robot
 
