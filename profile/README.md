@@ -18,7 +18,7 @@ For more information, please visit the [PICO-Humanoid website](https://pico-huma
 
 *Coming soon...*
 
-> For reference, see the [toolchain guide](../docs/toolchain-guide.md "Jump to 'toolchain-guide.md'") for software and hardware development.
+> For reference, see the [toolchain guide](https://github.com/pico-humanoid/.github/blob/main/docs/toolchain-guide.md "Jump to 'toolchain-guide.md'") for software and hardware development.
 
 ## Hardware
 
