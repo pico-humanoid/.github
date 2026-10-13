@@ -1,4 +1,4 @@
-## SolidWorks-MCP 接入与使用指南
+## SolidWorks-MCP
 
 > 项目地址：https://github.com/hjbaard/SolidWorks-MCP
 
@@ -54,7 +54,7 @@
     ```
     如果模型能正常输出回答，那么说明 MCP 注册成功。
 
-## 嘉立创 jlceda-MCP 接入与使用指南
+## JLCeda-MCP
 
 - 安装嘉立创EDA（专业版） V4.1.60以上版本
 - 进入 Codex 桌面版，依次点击 `编辑-设置-插件`
