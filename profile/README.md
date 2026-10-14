@@ -20,23 +20,6 @@ For more information, please visit the [PICO-Humanoid website](https://pico-huma
 
 > For reference, see the [toolchain guide](https://github.com/pico-humanoid/.github/blob/main/docs/toolchain-guide.md "Jump to 'toolchain-guide.md'") for software and hardware development.
 
-## Group
-
-| 角色 | 姓名 |
-| :--- | :--- |
-| 指导教师 | 孙中奇 |
-| 项目顾问 | 宁文涛（24博） |
-| 项目统筹 | 杨宸涵（26博） |
-| 机械组 | **刘子同（23本）**、周明泽（24本） |
-| 电气组 | **张剑韬（26硕）**、杨宸涵（26博） |
-| 固件组 | **李锐（26硕）**、曾姜彧（24本） |
-| 软件组 | 待定 |
-
-
-
-**点击查看每周[任务进度](https://pico-humanoid.github.io/progress/)**
-
-
 ## Hardware
 
 *Coming soon...*
